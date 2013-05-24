@@ -1,0 +1,4 @@
+sliderjs
+========
+
+Sidebar sliding component
